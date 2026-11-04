@@ -12,6 +12,9 @@ Travelers, families, hosts and language learners who want spoken translations al
 
 | Guide | What you will find |
 | --- | --- |
+| [Conversation readiness checklist](CONVERSATION_CHECKLIST.md) | Conditions to check before relying on the result. |
+| [Operating procedures](PROCEDURES.md) | Task prerequisites, exact sequence, expected result and recovery checks. |
+| [Technical user manual](MANUAL.md) | Task index and reference library. |
 | [Quick start](QUICK_START.md) | Prepare, complete and verify your first task. |
 | [Practical workflows](WORKFLOWS.md) | Concrete use cases and review steps. |
 | [Features and limitations](FEATURES_AND_LIMITS.md) | Supported workflows and important boundaries. |
