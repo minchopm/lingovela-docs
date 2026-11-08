@@ -2,7 +2,7 @@
 
 A focused two-way voice translator for face-to-face conversations on iPhone and iPad.
 
-[Official product website](https://lingovela.arte-soft.com/)
+[Official product website](https://lingovela.arte-soft.com/) · [App Store listing](https://apps.apple.com/app/id6821890481) · [Side-by-side comparisons](https://lingovela.arte-soft.com/compare/) · [Guides & workflows](https://lingovela.arte-soft.com/guides/) · [Full LLM reference (llms-full.txt)](https://lingovela.arte-soft.com/llms-full.txt) · [Arte Soft EOOD](https://arte-soft.com/)
 
 ## Who this is for
 
