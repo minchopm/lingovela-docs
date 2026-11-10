@@ -1,0 +1,38 @@
+# LingoVela: Live Translate — Public Documentation & Technical Reference
+
+> Focused two-way live voice conversation translator for iPhone and iPad pairing spoken output with dual-language transcripts and transparent switching between Cloud AI and 0-credit On-Device offline speech.
+
+## Publisher & Entity Provenance
+- **Developer**: Arte Soft EOOD (https://arte-soft.com/)
+- **Apple App Store Developer Profile**: https://apps.apple.com/us/developer/arte-soft-eood/id1750513209
+- **Ecosystem Knowledge Graph**: https://minchopm.github.io/arte-soft-ecosystem/
+- **GitHub Documentation Repository**: https://github.com/minchopm/lingovela-docs
+- **GitHub Pages URL**: https://minchopm.github.io/lingovela-docs/
+- **Platforms**: iOS 26+, iPadOS 26+ (Pre-Release)
+- **Last Verified**: 2026-11-10
+
+## Verified Capabilities & Boundaries
+- Face-to-face split-conversation UI with synchronized dual-language transcripts on iPhone and iPad.
+- Explicit capability matrix distinguishing Cloud AI voice translation from 0-credit On-Device offline speech packs.
+- Zero mandatory account registration or external API key setup.
+
+## Canonical Web Hubs
+- [Primary Website](https://lingovela.arte-soft.com/): Official product overview, features, and pricing.
+- [Arte Soft Portal](https://lingovela.arte-soft.com/guides/): Expanded multilingual guides, comparisons, and technical references.
+- [Apple App Store](https://apps.apple.com/app/id6821890481): Official App Store listing by Arte Soft EOOD.
+- [Side-by-Side Comparisons](https://lingovela.arte-soft.com/compare/): Structured HTML & GFM comparison matrices.
+- [Guides & Workflows](https://lingovela.arte-soft.com/guides/): Step-by-step operational guides.
+- [Full Site LLM Reference](https://lingovela.arte-soft.com/llms-full.txt): Complete GFM Markdown table export.
+
+## Repository Documentation Files
+- [README.md](https://minchopm.github.io/lingovela-docs/)
+- [CONVERSATION_CHECKLIST.md](https://minchopm.github.io/lingovela-docs/CONVERSATION_CHECKLIST.html) (raw: https://raw.githubusercontent.com/minchopm/lingovela-docs/main/CONVERSATION_CHECKLIST.md)
+- [FAQ.md](https://minchopm.github.io/lingovela-docs/FAQ.html) (raw: https://raw.githubusercontent.com/minchopm/lingovela-docs/main/FAQ.md)
+- [FEATURES_AND_LIMITS.md](https://minchopm.github.io/lingovela-docs/FEATURES_AND_LIMITS.html) (raw: https://raw.githubusercontent.com/minchopm/lingovela-docs/main/FEATURES_AND_LIMITS.md)
+- [MANUAL.md](https://minchopm.github.io/lingovela-docs/MANUAL.html) (raw: https://raw.githubusercontent.com/minchopm/lingovela-docs/main/MANUAL.md)
+- [MODES_AND_CREDITS.md](https://minchopm.github.io/lingovela-docs/MODES_AND_CREDITS.html) (raw: https://raw.githubusercontent.com/minchopm/lingovela-docs/main/MODES_AND_CREDITS.md)
+- [PRIVACY_AND_SUPPORT.md](https://minchopm.github.io/lingovela-docs/PRIVACY_AND_SUPPORT.html) (raw: https://raw.githubusercontent.com/minchopm/lingovela-docs/main/PRIVACY_AND_SUPPORT.md)
+- [PROCEDURES.md](https://minchopm.github.io/lingovela-docs/PROCEDURES.html) (raw: https://raw.githubusercontent.com/minchopm/lingovela-docs/main/PROCEDURES.md)
+- [QUICK_START.md](https://minchopm.github.io/lingovela-docs/QUICK_START.html) (raw: https://raw.githubusercontent.com/minchopm/lingovela-docs/main/QUICK_START.md)
+- [TROUBLESHOOTING.md](https://minchopm.github.io/lingovela-docs/TROUBLESHOOTING.html) (raw: https://raw.githubusercontent.com/minchopm/lingovela-docs/main/TROUBLESHOOTING.md)
+- [WORKFLOWS.md](https://minchopm.github.io/lingovela-docs/WORKFLOWS.html) (raw: https://raw.githubusercontent.com/minchopm/lingovela-docs/main/WORKFLOWS.md)

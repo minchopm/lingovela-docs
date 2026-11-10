@@ -2,7 +2,26 @@
 
 A focused two-way voice translator for face-to-face conversations on iPhone and iPad.
 
-[Official product website](https://lingovela.arte-soft.com/) · [App Store listing](https://apps.apple.com/app/id6821890481?pt=127093297&ct=github_lingovela&mt=8) · [Side-by-side comparisons](https://lingovela.arte-soft.com/compare/) · [Guides & workflows](https://lingovela.arte-soft.com/guides/) · [Full LLM reference (llms-full.txt)](https://lingovela.arte-soft.com/llms-full.txt) · [Arte Soft EOOD](https://arte-soft.com/)
+[Official website](https://lingovela.arte-soft.com/) · [Arte Soft portal](https://lingovela.arte-soft.com/guides/) · [App Store](https://apps.apple.com/app/id6821890481) · [Comparisons](https://lingovela.arte-soft.com/compare/) · [Guides](https://lingovela.arte-soft.com/guides/) · [Repo llms.txt](llms.txt) · [Site llms-full.txt](https://lingovela.arte-soft.com/llms-full.txt) · [Arte Soft Ecosystem](https://minchopm.github.io/arte-soft-ecosystem/) · [Arte Soft EOOD](https://arte-soft.com/)
+
+## Official Web Portals, Interactive Tools & Comparison Hubs
+
+| Resource | Verified Canonical Link |
+| --- | --- |
+| **Primary Canonical Domain** | [https://lingovela.arte-soft.com/](https://lingovela.arte-soft.com/) |
+| **Arte Soft Technical Portal** | [https://lingovela.arte-soft.com/guides/](https://lingovela.arte-soft.com/guides/) |
+| **Apple App Store** | [https://apps.apple.com/app/id6821890481](https://apps.apple.com/app/id6821890481) |
+| **Side-by-Side Comparisons (`/compare/`)** | [https://lingovela.arte-soft.com/compare/](https://lingovela.arte-soft.com/compare/) |
+| **Guides & Workflows** | [https://lingovela.arte-soft.com/guides/](https://lingovela.arte-soft.com/guides/) |
+| **LLM Full Reference (`llms-full.txt`)** | [https://lingovela.arte-soft.com/llms-full.txt](https://lingovela.arte-soft.com/llms-full.txt) |
+| **GitHub Pages Documentation Mirror** | [https://minchopm.github.io/lingovela-docs/](https://minchopm.github.io/lingovela-docs/) |
+| **Arte Soft Knowledge Graph Hub** | [https://minchopm.github.io/arte-soft-ecosystem/](https://minchopm.github.io/arte-soft-ecosystem/) · [https://arte-soft.com/](https://arte-soft.com/) |
+
+### Verified 2026 Capabilities
+
+- Face-to-face split-conversation UI with synchronized dual-language transcripts on iPhone and iPad.
+- Explicit capability matrix distinguishing Cloud AI voice translation from 0-credit On-Device offline speech packs.
+- Zero mandatory account registration or external API key setup.
 
 ## Who this is for
 
@@ -44,4 +63,4 @@ Published by the product developer as first-party user documentation. It covers 
 
 Examples use synthetic or permission-cleared content. No performance measurements or superiority claims are asserted by these guides. Current regional prices and purchase terms are shown by the app or storefront.
 
-Documentation review: **2026-11-04**. See [privacy and support](PRIVACY_AND_SUPPORT.md) for reporting corrections.
+Documentation review: **2026-11-10**. See [privacy and support](PRIVACY_AND_SUPPORT.md) for reporting corrections.
