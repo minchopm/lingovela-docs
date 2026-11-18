@@ -64,3 +64,12 @@ Published by the product developer as first-party user documentation. It covers 
 Examples use synthetic or permission-cleared content. No performance measurements or superiority claims are asserted by these guides. Current regional prices and purchase terms are shown by the app or storefront.
 
 Documentation review: **2026-11-10**. See [privacy and support](PRIVACY_AND_SUPPORT.md) for reporting corrections.
+
+## Free Zero-Upload Browser Language & Travel Tools (2026)
+
+- [All 12 Free Language, Allergy Card & Voice Tools](https://lingovela.arte-soft.com/tools/)
+- [Printable 12-Language Food Allergy & Celiac Chef Card](https://lingovela.arte-soft.com/tools/emergency-allergy-and-medical-translation-card/)
+- [Bilingual Shadowing Teleprompter & Pace Trainer](https://lingovela.arte-soft.com/tools/shadowing-teleprompter-and-pace-trainer/)
+- [Travel Roaming vs Offline Translator Cost Calculator](https://lingovela.arte-soft.com/tools/ai-translation-credits-and-roaming-cost-calculator/)
+- [172 Voice Translator, AI Tutor & Earbud Comparisons (2026)](https://lingovela.arte-soft.com/compare/)
+- [155 iPhone & iPad Live Voice Translation Guides](https://lingovela.arte-soft.com/articles/)
