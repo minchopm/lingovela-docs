@@ -1,6 +1,6 @@
 # LingoVela — choose a translation mode
 
-Release status at review: the public site says App Store release is in preparation. The following describes its published mode distinctions, not a guarantee that every mode is available on every installed build.
+Release status: LingoVela is available on Google Play for Android 8.0+ phones and tablets (since 20 November 2026). The iPhone and iPad version (iOS 26+) is in App Store review and not yet downloadable. On Android, On Device uses Google on-device translation and the device speech recognizer; Private Cloud Compute is iOS-only. The following describes its published mode distinctions, not a guarantee that every mode is available on every installed build.
 
 | Requirement | OpenAI Online | On Device | Private Cloud Compute |
 | --- | --- | --- | --- |

@@ -2,7 +2,7 @@
 
 ## Is LingoVela available now?
 
-At this documentation review, the public site says App Store release is in preparation. Check the official page for a current release announcement; these guides do not assert availability.
+LingoVela is available on Google Play for Android 8.0+ phones and tablets (since 20 November 2026). The iPhone and iPad version (iOS 26+) is in App Store review and not yet downloadable. Check the official site for the App Store release.
 
 ## Does zero-credit On Device mean free access?
 

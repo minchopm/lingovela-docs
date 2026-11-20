@@ -10,7 +10,7 @@ Use the current product from the official source. Check its device requirements 
 
 ## Steps
 
-1. Check release availability on the official site before planning a trip around the app. The site currently identifies it as an upcoming App Store release.
+1. Install LingoVela from Google Play on Android (https://play.google.com/store/apps/details?id=com.artesoft.lingovela). The iPhone and iPad version is in App Store review.
 
 2. When a supported build is available, confirm the device/OS requirements and activate the required subscription while online.
 

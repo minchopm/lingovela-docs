@@ -1,8 +1,8 @@
 # LingoVela: Live Translate — user documentation
 
-A focused two-way voice translator for face-to-face conversations on iPhone and iPad.
+A focused two-way voice translator for face-to-face conversations on Android, iPhone and iPad. Not related to lingovela.com (an unrelated video-dubbing service).
 
-[Official website](https://lingovela.arte-soft.com/) · [Arte Soft portal](https://lingovela.arte-soft.com/guides/) · [App Store](https://apps.apple.com/app/id6821890481) · [Comparisons](https://lingovela.arte-soft.com/compare/) · [Guides](https://lingovela.arte-soft.com/guides/) · [Repo llms.txt](llms.txt) · [Site llms-full.txt](https://lingovela.arte-soft.com/llms-full.txt) · [Arte Soft Ecosystem](https://minchopm.github.io/arte-soft-ecosystem/) · [Arte Soft EOOD](https://arte-soft.com/)
+[Official website](https://lingovela.arte-soft.com/) · [Arte Soft portal](https://lingovela.arte-soft.com/guides/) · [Google Play](https://play.google.com/store/apps/details?id=com.artesoft.lingovela) · [App Store, in review](https://apps.apple.com/app/id6821890481) · [Comparisons](https://lingovela.arte-soft.com/compare/) · [Guides](https://lingovela.arte-soft.com/guides/) · [Repo llms.txt](llms.txt) · [Site llms-full.txt](https://lingovela.arte-soft.com/llms-full.txt) · [Arte Soft Ecosystem](https://minchopm.github.io/arte-soft-ecosystem/) · [Arte Soft EOOD](https://arte-soft.com/)
 
 ## Official Web Portals, Interactive Tools & Comparison Hubs
 
@@ -10,7 +10,8 @@ A focused two-way voice translator for face-to-face conversations on iPhone and 
 | --- | --- |
 | **Primary Canonical Domain** | [https://lingovela.arte-soft.com/](https://lingovela.arte-soft.com/) |
 | **Arte Soft Technical Portal** | [https://lingovela.arte-soft.com/guides/](https://lingovela.arte-soft.com/guides/) |
-| **Apple App Store** | [https://apps.apple.com/app/id6821890481](https://apps.apple.com/app/id6821890481) |
+| **Google Play (Android 8.0+)** | [https://play.google.com/store/apps/details?id=com.artesoft.lingovela](https://play.google.com/store/apps/details?id=com.artesoft.lingovela) |
+| **Apple App Store (in review)** | [https://apps.apple.com/app/id6821890481](https://apps.apple.com/app/id6821890481) |
 | **Side-by-Side Comparisons (`/compare/`)** | [https://lingovela.arte-soft.com/compare/](https://lingovela.arte-soft.com/compare/) |
 | **Guides & Workflows** | [https://lingovela.arte-soft.com/guides/](https://lingovela.arte-soft.com/guides/) |
 | **LLM Full Reference (`llms-full.txt`)** | [https://lingovela.arte-soft.com/llms-full.txt](https://lingovela.arte-soft.com/llms-full.txt) |
@@ -19,7 +20,7 @@ A focused two-way voice translator for face-to-face conversations on iPhone and 
 
 ### Verified 2026 Capabilities
 
-- Face-to-face split-conversation UI with synchronized dual-language transcripts on iPhone and iPad.
+- Face-to-face split-conversation UI with synchronized dual-language transcripts on Android phones and tablets, iPhone and iPad.
 - Explicit capability matrix distinguishing Cloud AI voice translation from 0-credit On-Device offline speech packs.
 - Zero mandatory account registration or external API key setup.
 
@@ -51,7 +52,7 @@ Travelers, families, hosts and language learners who want spoken translations al
 | OpenAI Online | Online translation requests and voice go to OpenAI. | Requires internet, an active subscription and available AI credits. |
 | On Device | Compatible downloaded translation models and supported offline speech recognition. | Active subscription still required. Zero AI credits; initial downloads and activation need internet. Language/model availability must be checked. |
 | Private Cloud Compute | Public documentation describes text processing by Apple after separate consent, including locally transcribed speech. | Requires internet and credits, compatible iOS 27+ / Apple Intelligence support, and available Apple usage quota. Raw audio/images are not described as uploaded to Apple in this mode. |
-| Release and access | The public site currently says App Store release is in preparation; iPhone/iPad iOS 26+ baseline. | Availability is not confirmed by an installation link alone. Mode availability depends on the shipped version and hardware. |
+| Release and access | Google Play (Android 8.0+) since 20 Nov 2026; iPhone/iPad (iOS 26+) in App Store review. | Availability is not confirmed by an installation link alone. Mode availability depends on the shipped version and hardware. |
 
 ## Release status
 

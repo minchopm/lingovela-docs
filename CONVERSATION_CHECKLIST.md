@@ -4,7 +4,7 @@ This is an operational check, not a performance benchmark or an approval certifi
 
 ## Availability first
 
-The reviewed public site says release is in preparation. Confirm actual availability and installed-build support before planning a trip around the app.
+LingoVela is available on Google Play for Android 8.0+ phones and tablets (since 20 November 2026). The iPhone and iPad version (iOS 26+) is in App Store review and not yet downloadable. Confirm your installed build supports the mode you need before planning a trip around it.
 
 ## Mode and access
 

@@ -9,7 +9,7 @@ Use this table to decide whether a workflow fits your task. Product version, dev
 | OpenAI Online | Online translation requests and voice go to OpenAI. | Requires internet, an active subscription and available AI credits. |
 | On Device | Compatible downloaded translation models and supported offline speech recognition. | Active subscription still required. Zero AI credits; initial downloads and activation need internet. Language/model availability must be checked. |
 | Private Cloud Compute | Public documentation describes text processing by Apple after separate consent, including locally transcribed speech. | Requires internet and credits, compatible iOS 27+ / Apple Intelligence support, and available Apple usage quota. Raw audio/images are not described as uploaded to Apple in this mode. |
-| Release and access | The public site currently says App Store release is in preparation; iPhone/iPad iOS 26+ baseline. | Availability is not confirmed by an installation link alone. Mode availability depends on the shipped version and hardware. |
+| Release and access | Google Play (Android 8.0+) since 20 Nov 2026; iPhone/iPad (iOS 26+) in App Store review. | Availability is not confirmed by an installation link alone. Mode availability depends on the shipped version and hardware. |
 
 ## Before changing a workflow
 
